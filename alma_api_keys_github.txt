@@ -1,0 +1,3 @@
+Alma API keys
+alma_sandbox_key = "your_sandbox_key"
+alma_production_key = "your_production_key"
