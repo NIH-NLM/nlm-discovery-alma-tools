@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <leader>01119cam a2200313 a 4500</leader>
+    <controlfield tag="001">992753443406676</controlfield>
+    <controlfield tag="005">20240610214942.0</controlfield>
+    <controlfield tag="008">841201s1788    sw            000 0 swe  </controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+        <subfield code="9">2681183R</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+        <subfield code="a">(DNLM)IDX:20703141510</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+        <subfield code="a">DNLM</subfield>
+        <subfield code="c">DNLM</subfield>
+        <subfield code="e">dcrb</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="041">
+        <subfield code="a">swe</subfield>
+    </datafield>
+    <datafield tag="042" ind1="0" ind2=" ">
+        <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044">
+        <subfield code="9">Sweden</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+        <subfield code="a">WZ 260</subfield>
+        <subfield code="b">H141i 1788</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+        <subfield code="a">Hagströmer, Anders Johan,</subfield>
+        <subfield code="d">1753-1830.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+        <subfield code="a">Inträdes-tal, om Danviks Hospitals inrättning :</subfield>
+        <subfield code="b">hållet för Kongl. Vetenskaps academien den 9 April 1788 /</subfield>
+        <subfield code="c">af Anders Joh. Hagström ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+        <subfield code="a">Stockholm :</subfield>
+        <subfield code="b">Tryckt hos Johan Georg Lange,</subfield>
+        <subfield code="c">1788.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+        <subfield code="a">[2], 30 p. ;</subfield>
+        <subfield code="c">24 cm. (8vo)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+        <subfield code="a">text</subfield>
+        <subfield code="b">txt</subfield>
+        <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+        <subfield code="a">still image</subfield>
+        <subfield code="b">sti</subfield>
+        <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+        <subfield code="a">unmediated</subfield>
+        <subfield code="b">n</subfield>
+        <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+        <subfield code="a">volume</subfield>
+        <subfield code="b">nc</subfield>
+        <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+        <subfield code="a">Signatures: pi1 A⁸ B⁸(-B8).</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="510">
+        <subfield code="a">Blake, J.  NLM 18th cent.,</subfield>
+        <subfield code="c">p. 193</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="610">
+        <subfield code="a">Danvikens dårhus (Stockholm, Sweden)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+        <subfield code="a">Hospitals, Public</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="651">
+        <subfield code="a">Sweden</subfield>
+    </datafield>
+    <datafield tag="655" ind1="1" ind2="2">
+        <subfield code="a">Portrait</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="935">
+        <subfield code="a">(DNLM)275344-nlmdb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="995">
+        <subfield code="a">AUTH</subfield>
+        <subfield code="b">19841201</subfield>
+        <subfield code="c">REV</subfield>
+        <subfield code="d">20211204</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="999">
+        <subfield code="a">AUTH</subfield>
+    </datafield>
+</record>
