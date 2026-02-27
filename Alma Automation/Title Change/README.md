@@ -1,4 +1,4 @@
-# Title Change Updater for Alma (362 + 76X-78X Consolidated)
+# Title Change Updater for Alma 
 
 This script automates the process of updating catalog records in **Alma** when a serial title undergoes a **title change**. It reads a CSV file containing pairs of MMS IDs (one for the previous title and one for the new title), along with ceased-date and optional archive-begins information, then updates the relevant MARC fields on both records via the Alma Bib API.
 
