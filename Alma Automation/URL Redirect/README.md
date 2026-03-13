@@ -8,7 +8,6 @@ It can run without an API key for regular web URLs, and it can optionally use an
 
 | File | Purpose |
 |---|---|
-| `url_redirect.py` | Original local version used for initial processing |
 | `url_redirect_github.py` | Generic, reusable template script |
 | `URL_Redirects_input.xlsx` | Sample input workbook |
 | `URL_Redirects_output.xlsx` | Sample output workbook |
