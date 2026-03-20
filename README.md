@@ -66,7 +66,7 @@ No prior programming experience is required.
 Start in this order:
 
 1. Use [Alma Validation/Basic Connection](Alma%20Validation/Basic%20Connection/) to confirm API connectivity and key permissions.
-2. Then use [Getting Started/Local_Testing](Getting%20Started/Local_Testing/) to safely test XML changes locally before any update workflow.
+2. Then use [Alma Automation/Getting Started/Local_Testing](Alma%20Automation/Getting%20Started/Local_Testing/) to safely test XML changes locally before any update workflow.
 
 ------------------------------------------------------------------------
 
