@@ -61,6 +61,15 @@ No prior programming experience is required.
 
 ------------------------------------------------------------------------
 
+## Recommended First Path
+
+Start in this order:
+
+1. Use [Alma Validation/Basic Connection](Alma%20Validation/Basic%20Connection/) to confirm API connectivity and key permissions.
+2. Then use [Getting Started/Local_Testing](Getting%20Started/Local_Testing/) to safely test XML changes locally before any update workflow.
+
+------------------------------------------------------------------------
+
 ## General Setup (Applies to All Scripts)
 
 ### 1️⃣ Install Python
