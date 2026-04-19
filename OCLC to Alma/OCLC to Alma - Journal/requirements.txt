@@ -1,0 +1,13 @@
+azure-functions>=1.15.0
+pandas>=2.1.0
+openpyxl>=3.1.2
+requests>=2.31.0
+azure-storage-blob>=12.19.0
+PyJWT>=2.8.0
+pydantic>=2.5.0
+cryptography>=41.0.0
+python-dateutil>=2.8.2
+typing-extensions>=4.8.0
+pydantic_core>=2.10.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
