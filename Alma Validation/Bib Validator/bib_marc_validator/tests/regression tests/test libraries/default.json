@@ -1,0 +1,1427 @@
+{
+    "S0001_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0001_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "Subfield h should not exist in the 245 field.",
+                "datafield_id": "5a458af8-6b75-4aa9-a1bd-12d41d9d01fc",
+                "subfield_id": "243460d0-040a-466e-a2b9-6fd40d6583bc"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "Subfield h should not exist in the 245 field.",
+                "datafield_id": "5a458af8-6b75-4aa9-a1bd-12d41d9d01fc",
+                "subfield_id": "243460d0-040a-466e-a2b9-6fd40d6583bc"
+            }
+        ]
+    },
+    "S0002_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0002_01.xml",
+        "errors_before_correction": [
+            "245 $n should come before $p."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "245 $n should come before $p."
+        ]
+    },
+    "S0003_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0003_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "245 $n should end with a comma.",
+                "datafield_id": "fe8a608e-1da5-4f51-b6fe-7a496b18246d",
+                "subfield_id": "5257046a-948d-4643-90f6-fd6727e5b0b9"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "245 $n should end with a comma.",
+                "datafield_id": "fe8a608e-1da5-4f51-b6fe-7a496b18246d",
+                "subfield_id": "5257046a-948d-4643-90f6-fd6727e5b0b9"
+            }
+        ]
+    },
+    "S0004_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0004_01.xml",
+        "errors_before_correction": [
+            "040 $a begins with DNLM, Cataloging Source (008/39) not 'blank'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "040 $a begins with DNLM, Cataloging Source (008/39) not 'blank'."
+        ]
+    },
+    "S0005_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0005_01.xml",
+        "errors_before_correction": [
+            "If subfield h is present in the 041 field, the first indicator should be 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "If subfield h is present in the 041 field, the first indicator should be 1."
+        ]
+    },
+    "S0006_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0006_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Abstracts found, but 'a' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Abstracts found, but 'a' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0007_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0007_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Bibliography found, but 'b' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Bibliography found, but 'b' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0008_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0008_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Encyclopedia found, but 'e' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Encyclopedia found, but 'e' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0009_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0009_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Handbook found, but 'f' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Handbook found, but 'f' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0010_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0010_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Index found, but 'i' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Index found, but 'i' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0011_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0011_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Patent found, but 'j' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Patent found, but 'j' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0012_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0012_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Programmed Instruction found, but 'p' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Programmed Instruction found, but 'p' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0013_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0013_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Directory found, but 'r' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Directory found, but 'r' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0014_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0014_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Legal Case, but 'v' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Legal Case, but 'v' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0015_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0015_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Legislation, but 'l' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Legislation, but 'l' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0016_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0016_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Statistics, but 's' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Statistics, but 's' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0017_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0017_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Technical Report, but 't' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Technical Report, but 't' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0018_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0018_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Graphic Novel, but '6' is missing in 008 bytes 24-27.",
+            "CATALOGER: 655 $a Graphic Novel exists and 336 $a still image not present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Graphic Novel, but '6' is missing in 008 bytes 24-27.",
+            "CATALOGER: 655 $a Graphic Novel exists and 336 $a still image not present."
+        ]
+    },
+    "S0019_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0019_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Catalog (or specific Catalog PT) found, but 'c' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Catalog (or specific Catalog PT) found, but 'c' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0020_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0020_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Dictionary (or specific Dictionary PT) found, but 'd' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Dictionary (or specific Dictionary PT) found, but 'd' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0021_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0021_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Festschrift found, but '1' is missing in 008 byte 30."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Festschrift found, but '1' is missing in 008 byte 30."
+        ]
+    },
+    "S0022_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0022_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a 'Congress' is present, but 008/29 is not '1'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a 'Congress' is present, but 008/29 is not '1'."
+        ]
+    },
+    "S0023_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0023_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a 'Autobiography' is present, but 008/34 is not 'a'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a 'Autobiography' is present, but 008/34 is not 'a'."
+        ]
+    },
+    "S0024_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0024_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ]
+    },
+    "S0025_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0025_01.xml",
+        "errors_before_correction": [
+            "500 or 504 includes note about index and 008/31 is not \u20181\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "500 or 504 includes note about index and 008/31 is not \u20181\u2019."
+        ]
+    },
+    "S0026_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0026_01.xml",
+        "errors_before_correction": [
+            "502 exists and bytes 24-27 does not contain \u2018m\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "502 exists and bytes 24-27 does not contain \u2018m\u2019."
+        ]
+    },
+    "S0027_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0027_01.xml",
+        "errors_before_correction": [
+            "500 or 504 includes note about index and 008/31 is not \u20181\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "500 or 504 includes note about index and 008/31 is not \u20181\u2019."
+        ]
+    },
+    "S0028_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0028_01.xml",
+        "errors_before_correction": [
+            "245 first indicator should be '1' when fields 100, 110, 111, or 130 are present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "245 first indicator should be '1' when fields 100, 110, 111, or 130 are present."
+        ]
+    },
+    "S0029_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0029_01.xml",
+        "errors_before_correction": [
+            "245 first indicator should be '0' when fields 100, 110, 111, or 130 are not present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "245 first indicator should be '0' when fields 100, 110, 111, or 130 are not present."
+        ]
+    },
+    "S0030_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0030_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ]
+    },
+    "S0031_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0031_01.xml",
+        "errors_before_correction": [
+            "The 856 field should not have a second indicator of 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "The 856 field should not have a second indicator of 1."
+        ]
+    },
+    "S0031_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0031_02.xml",
+        "errors_before_correction": [
+            "The 856 field should not have a second indicator of 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "The 856 field should not have a second indicator of 1."
+        ]
+    },
+    "S0032_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0032_01.xml",
+        "errors_before_correction": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ]
+    },
+    "S0032_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0032_02.xml",
+        "errors_before_correction": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ]
+    },
+    "S0032_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0032_03.xml",
+        "errors_before_correction": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "Error: 264 field with ind2='4' is missing subfield c."
+        ]
+    },
+    "S0033_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0033_01.xml",
+        "errors_before_correction": [
+            "Leader byte 18 is 'i', but 040 $e is not 'rda'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "Leader byte 18 is 'i', but 040 $e is not 'rda'."
+        ]
+    },
+    "S0034_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0034_01.xml",
+        "errors_before_correction": [
+            "264 has a 2nd indicator of '0', Leader character 7 is 'a'"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "264 has a 2nd indicator of '0', Leader character 7 is 'a'"
+        ]
+    },
+    "S0035_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0035_01.xml",
+        "errors_before_correction": [
+            "More than one 362 field with first indicator of 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "More than one 362 field with first indicator of 1."
+        ]
+    },
+    "S0036_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0036_01.xml",
+        "errors_before_correction": [
+            "More than one 362 field with first indicator of 0."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "More than one 362 field with first indicator of 0."
+        ]
+    },
+    "S0037_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0037_01.xml",
+        "errors_before_correction": [
+            "008/24-27 contains \u2018n\u2019 and \u2018b\u2019.",
+            "\u2018n\u2019 is present in 008/24-27 and \u2018b\u2019 is also present"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008/24-27 contains \u2018n\u2019 and \u2018b\u2019.",
+            "\u2018n\u2019 is present in 008/24-27 and \u2018b\u2019 is also present"
+        ]
+    },
+    "S0037_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0037_02.xml",
+        "errors_before_correction": [
+            "008/24-27 contains \u2018n\u2019 and \u2018b\u2019.",
+            "\u2018n\u2019 is present in 008/24-27 and \u2018b\u2019 is also present"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008/24-27 contains \u2018n\u2019 and \u2018b\u2019.",
+            "\u2018n\u2019 is present in 008/24-27 and \u2018b\u2019 is also present"
+        ]
+    },
+    "S0038_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0038_01.xml",
+        "errors_before_correction": [
+            "300$b exists and 008/18-21 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "300$b exists and 008/18-21 are all \u2018blank\u2019."
+        ]
+    },
+    "S0039_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0039_01.xml",
+        "errors_before_correction": [
+            "504$a contains \u2018Includes\u2019 and \u2018bibliograh*\u2019, 008/24-27 does not contain \u2018b\u2019 or \u2018n\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "504$a contains \u2018Includes\u2019 and \u2018bibliograh*\u2019, 008/24-27 does not contain \u2018b\u2019 or \u2018n\u2019."
+        ]
+    },
+    "S0039_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0039_02.xml",
+        "errors_before_correction": [
+            "504$a contains \u2018Includes\u2019 and \u2018bibliograh*\u2019, 008/24-27 does not contain \u2018b\u2019 or \u2018n\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "504$a contains \u2018Includes\u2019 and \u2018bibliograh*\u2019, 008/24-27 does not contain \u2018b\u2019 or \u2018n\u2019."
+        ]
+    },
+    "S0040_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0040_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 999 is AUTH but 950's exist"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 999 is AUTH but 950's exist"
+        ]
+    },
+    "S0041_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0041_01.xml",
+        "errors_before_correction": [
+            "041 1st indicator should be 0 or 1"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "041 1st indicator should be 0 or 1"
+        ]
+    },
+    "S0041_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0041_02.xml",
+        "errors_before_correction": [
+            "If subfield h is present in the 041 field, the first indicator should be 1.",
+            "041 1st indicator should be 0 or 1"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "If subfield h is present in the 041 field, the first indicator should be 1.",
+            "041 1st indicator should be 0 or 1"
+        ]
+    },
+    "S0042_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_01.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0042_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_02.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0042_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_03.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0042_04.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_04.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0043_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0043_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "66e42b6b-a32c-4c23-93ce-de76d866aa84",
+                "subfield_id": "a5469b22-68e2-460a-adc2-13731667d6b7"
+            },
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "713391b2-ede8-4b50-ad87-f9969cfba8ab",
+                "subfield_id": "6265be51-eccc-42a5-8b80-66c7d8c23438"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "66e42b6b-a32c-4c23-93ce-de76d866aa84",
+                "subfield_id": "a5469b22-68e2-460a-adc2-13731667d6b7"
+            },
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "713391b2-ede8-4b50-ad87-f9969cfba8ab",
+                "subfield_id": "6265be51-eccc-42a5-8b80-66c7d8c23438"
+            }
+        ]
+    },
+    "S0043_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0043_02.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "0dbd9acf-9aef-4c4a-a96e-b04e5095f6b4",
+                "subfield_id": "ac00033a-ea49-4a7b-a299-d18ae395d546"
+            },
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "21df20ba-ff45-4286-9459-96e5206a7d65",
+                "subfield_id": "63f2f4d4-7a81-46fc-b987-1f783b793ddd"
+            },
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "cee26434-2935-494b-8ef4-947de221f80e",
+                "subfield_id": "09c8c02b-d278-400a-b5a8-2a059bd24e51"
+            }
+        ],
+        "errors_not_solved": [
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "cee26434-2935-494b-8ef4-947de221f80e",
+                "subfield_id": "09c8c02b-d278-400a-b5a8-2a059bd24e51"
+            }
+        ],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "0dbd9acf-9aef-4c4a-a96e-b04e5095f6b4",
+                "subfield_id": "ac00033a-ea49-4a7b-a299-d18ae395d546"
+            },
+            {
+                "error": "CATALOGER: 830 $a contains unbalanced parentheses.",
+                "datafield_id": "21df20ba-ff45-4286-9459-96e5206a7d65",
+                "subfield_id": "63f2f4d4-7a81-46fc-b987-1f783b793ddd"
+            }
+        ]
+    },
+    "S0044_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0044_01.xml",
+        "errors_before_correction": [
+            "510 has PMC but is missing PMC URL"
+        ],
+        "errors_not_solved": [
+            "510 has PMC but is missing PMC URL"
+        ],
+        "errors_solved": []
+    },
+    "S0045_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0045_01.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0045_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0045_02.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0045_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0045_03.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0045_04.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0045_04.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0046_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0046_01.xml",
+        "errors_before_correction": [
+            "The first 264 field does not have ind1=' ' and ind2='1', and there is no 260 field present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "The first 264 field does not have ind1=' ' and ind2='1', and there is no 260 field present."
+        ]
+    },
+    "S0047_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0047_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ]
+    },
+    "S0047_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0047_02.xml",
+        "errors_before_correction": [
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_not_solved": [
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_solved": []
+    },
+    "S0048_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0048_01.xml",
+        "errors_before_correction": [
+            "008 language and 041 $a do not match.",
+            {
+                "error": "041 $a is 'und'.",
+                "datafield_id": "c088bb63-d623-4236-93fe-0dab627246ba",
+                "subfield_id": "6f04b7c5-394e-4256-a17d-41d9e8ed6630"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 language and 041 $a do not match.",
+            {
+                "error": "041 $a is 'und'.",
+                "datafield_id": "c088bb63-d623-4236-93fe-0dab627246ba",
+                "subfield_id": "6f04b7c5-394e-4256-a17d-41d9e8ed6630"
+            }
+        ]
+    },
+    "S0049_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0049_01.xml",
+        "errors_before_correction": [
+            "040 $e is rda and 264 field is missing.",
+            "040$e = rda and 264 2nd indicator '1' not present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "040 $e is rda and 264 field is missing.",
+            "040$e = rda and 264 2nd indicator '1' not present."
+        ]
+    },
+    "S0050_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0050_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: encoding level is 7. Monographs should be full level.",
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: encoding level is 7. Monographs should be full level.",
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ]
+    },
+    "S0050_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0050_02.xml",
+        "errors_before_correction": [
+            "CATALOGER: encoding level is 7. Monographs should be full level.",
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_not_solved": [
+            "CATALOGER: encoding level is 7. Monographs should be full level.",
+            "CATALOGER: Encoding level is no full. Newly cataloged monographs should have a full encoding level"
+        ],
+        "errors_solved": []
+    },
+    "S0051_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0051_01.xml",
+        "errors_before_correction": [
+            "337 subfield a is 'computer' but 006 field is missing."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "337 subfield a is 'computer' but 006 field is missing."
+        ]
+    },
+    "S0052_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0052_01.xml",
+        "errors_before_correction": [
+            "337 subfield a is 'computer' but 007 field is missing."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "337 subfield a is 'computer' but 007 field is missing."
+        ]
+    },
+    "S0053_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0053_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Record has 042 pcc but 992 $e is EL. Should it be EF?",
+                "datafield_id": "e136658e-c1ca-4a72-a80c-9b7d1c9852cb",
+                "subfield_id": "6b1077c7-9c95-4eb1-8ba7-9423da3ab909"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: Record has 042 pcc but 992 $e is EL. Should it be EF?",
+                "datafield_id": "e136658e-c1ca-4a72-a80c-9b7d1c9852cb",
+                "subfield_id": "6b1077c7-9c95-4eb1-8ba7-9423da3ab909"
+            }
+        ]
+    },
+    "S0053_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0053_02.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Record has 042 pcc but 992 $e is EL. Should it be EF?",
+                "datafield_id": "139ef9b0-3fa7-464d-a66a-d6870df7e5bd",
+                "subfield_id": "123be6f8-21ee-4fd2-89ac-ff4890f145b7"
+            }
+        ],
+        "errors_not_solved": [
+            {
+                "error": "CATALOGER: Record has 042 pcc but 992 $e is EL. Should it be EF?",
+                "datafield_id": "139ef9b0-3fa7-464d-a66a-d6870df7e5bd",
+                "subfield_id": "123be6f8-21ee-4fd2-89ac-ff4890f145b7"
+            }
+        ],
+        "errors_solved": []
+    },
+    "S0054_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0054_01.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Portrait exists and 336 $a still image not present."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Portrait exists and 336 $a still image not present."
+        ]
+    },
+    "S0042_05.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_05.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0042_06.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0042_06.xml",
+        "errors_before_correction": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "008 Date 1 is empty.",
+            "008/7-14 are all \u2018blank\u2019."
+        ]
+    },
+    "S0006_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0006_02.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Index found, but 'i' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [
+            "CATALOGER: 655 $a Index found, but 'i' is missing in 008 bytes 24-27."
+        ],
+        "errors_solved": []
+    },
+    "S0006_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0006_03.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a Handbook found, but 'f' is missing in 008 bytes 24-27."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a Handbook found, but 'f' is missing in 008 bytes 24-27."
+        ]
+    },
+    "S0024_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0024_02.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ]
+    },
+    "S0024_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0024_03.xml",
+        "errors_before_correction": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ],
+        "errors_not_solved": [
+            "CATALOGER: 655 $a 'Biography' is present, but 008/34 is not 'b' or 'c'."
+        ],
+        "errors_solved": []
+    },
+    "S0030_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0030_02.xml",
+        "errors_before_correction": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ],
+        "errors_not_solved": [
+            "CATALOGER: 044 field is missing."
+        ],
+        "errors_solved": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ]
+    },
+    "S0030_04.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0030_04.xml",
+        "errors_before_correction": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ],
+        "errors_not_solved": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ],
+        "errors_solved": []
+    },
+    "S0030_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0030_03.xml",
+        "errors_before_correction": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ],
+        "errors_not_solved": [
+            "CATALOGER: 041 field is missing."
+        ],
+        "errors_solved": [
+            "CATALOGER: Both 041 and 044 fields are missing."
+        ]
+    },
+    "S0031_03..xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0031_03..xml",
+        "errors_before_correction": [
+            "The 856 field should not have a second indicator of 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "The 856 field should not have a second indicator of 1."
+        ]
+    },
+    "S0031_04.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0031_04.xml",
+        "errors_before_correction": [
+            "The 856 field should not have a second indicator of 1."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "The 856 field should not have a second indicator of 1."
+        ]
+    },
+    "S0044_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0044_02.xml",
+        "errors_before_correction": [
+            "510 has PMC but is missing PMC URL"
+        ],
+        "errors_not_solved": [
+            "510 has PMC but is missing PMC URL"
+        ],
+        "errors_solved": []
+    },
+    "S0065_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0065_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "955 $b and $d should contain 8 characters",
+                "datafield_id": "bae72a14-2210-46e3-b2f5-c9bb065845ed",
+                "subfield_id": "1dbbab0b-2611-4763-84ac-9bc79557048a"
+            }
+        ],
+        "errors_not_solved": [
+            {
+                "error": "955 $b and $d should contain 8 characters",
+                "datafield_id": "bae72a14-2210-46e3-b2f5-c9bb065845ed",
+                "subfield_id": "1dbbab0b-2611-4763-84ac-9bc79557048a"
+            }
+        ],
+        "errors_solved": []
+    },
+    "S0055_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0055_01.xml",
+        "errors_before_correction": [
+            "Invalid character in 001 field"
+        ],
+        "errors_not_solved": [
+            "Invalid character in 001 field"
+        ],
+        "errors_solved": []
+    },
+    "S0056_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0056_01.xml",
+        "errors_before_correction": [
+            "001 field length is invalid"
+        ],
+        "errors_not_solved": [
+            "001 field length is invalid"
+        ],
+        "errors_solved": []
+    },
+    "S0056_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0056_02.xml",
+        "errors_before_correction": [
+            "001 field length is invalid"
+        ],
+        "errors_not_solved": [
+            "001 field length is invalid"
+        ],
+        "errors_solved": []
+    },
+    "S0057_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0057_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "Invalid character in 035 $9 field",
+                "datafield_id": "c58406a6-01f7-4d7c-8768-720f2b965dff",
+                "subfield_id": "c299f206-324b-45cb-bd19-58ea477e38d2"
+            }
+        ],
+        "errors_not_solved": [
+            {
+                "error": "Invalid character in 035 $9 field",
+                "datafield_id": "c58406a6-01f7-4d7c-8768-720f2b965dff",
+                "subfield_id": "c299f206-324b-45cb-bd19-58ea477e38d2"
+            }
+        ],
+        "errors_solved": []
+    },
+    "S0058_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0058_01.xml",
+        "errors_before_correction": [
+            "001 is missing"
+        ],
+        "errors_not_solved": [
+            "001 is missing"
+        ],
+        "errors_solved": []
+    },
+    "S0059_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0059_01.xml",
+        "errors_before_correction": [
+            "008 is missing"
+        ],
+        "errors_not_solved": [
+            "008 is missing"
+        ],
+        "errors_solved": []
+    },
+    "S0060_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0060_01.xml",
+        "errors_before_correction": [
+            "035 $9 field is missing"
+        ],
+        "errors_not_solved": [
+            "035 $9 field is missing"
+        ],
+        "errors_solved": []
+    },
+    "S0061_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0061_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "Subfield b in field 040 should be 'eng'.",
+                "datafield_id": "d23d5ad1-dd0d-43fb-9181-81127d5ea53f",
+                "subfield_id": "3a9bdad1-eb33-4faa-8a72-98e9d330cc1e"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "Subfield b in field 040 should be 'eng'.",
+                "datafield_id": "d23d5ad1-dd0d-43fb-9181-81127d5ea53f",
+                "subfield_id": "3a9bdad1-eb33-4faa-8a72-98e9d330cc1e"
+            }
+        ]
+    },
+    "S0062_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0062_01.xml",
+        "errors_before_correction": [
+            "CITVIDEO is missing 035 $a beginning with (DNLM)CIT"
+        ],
+        "errors_not_solved": [
+            "CITVIDEO is missing 035 $a beginning with (DNLM)CIT"
+        ],
+        "errors_solved": []
+    },
+    "S0063_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0063_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Subfield a in field 651 should not end with a period.",
+                "datafield_id": "f9c506fc-0544-46de-a5df-87d85c950f27",
+                "subfield_id": "1fd8a9f1-f5c8-4da4-87c3-e55248d9573d"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: Subfield a in field 651 should not end with a period.",
+                "datafield_id": "f9c506fc-0544-46de-a5df-87d85c950f27",
+                "subfield_id": "1fd8a9f1-f5c8-4da4-87c3-e55248d9573d"
+            }
+        ]
+    },
+    "S0063_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0063_02.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Subfield a in field 651 should not end with a period.",
+                "datafield_id": "278c7f49-1317-4925-a80d-9e74a95b88f3",
+                "subfield_id": "0f70abf2-8f65-4753-b908-9deeb1609ec8"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: Subfield a in field 651 should not end with a period.",
+                "datafield_id": "278c7f49-1317-4925-a80d-9e74a95b88f3",
+                "subfield_id": "0f70abf2-8f65-4753-b908-9deeb1609ec8"
+            }
+        ]
+    },
+    "S0064_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0064_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Subfield a in field 655 should not end with a period.",
+                "datafield_id": "53fcfc83-26c4-4225-bdf7-2d87696f2168",
+                "subfield_id": "246d68af-8e29-4434-a31d-b4aa67a43416"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: Subfield a in field 655 should not end with a period.",
+                "datafield_id": "53fcfc83-26c4-4225-bdf7-2d87696f2168",
+                "subfield_id": "246d68af-8e29-4434-a31d-b4aa67a43416"
+            }
+        ]
+    },
+    "S0064_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0064_02.xml",
+        "errors_before_correction": [
+            {
+                "error": "CATALOGER: Subfield a in field 655 should not end with a period.",
+                "datafield_id": "e02aa28c-fc3b-4725-924d-2e98a1f4acbb",
+                "subfield_id": "a4850dcc-b167-422d-8695-810d9ad24487"
+            }
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "CATALOGER: Subfield a in field 655 should not end with a period.",
+                "datafield_id": "e02aa28c-fc3b-4725-924d-2e98a1f4acbb",
+                "subfield_id": "a4850dcc-b167-422d-8695-810d9ad24487"
+            }
+        ]
+    },
+    "S0065_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0065_02.xml",
+        "errors_before_correction": [
+            {
+                "error": "955 $b and $d should contain 8 characters",
+                "datafield_id": "944aeb79-a663-46a0-aee7-d26c24d87a0e",
+                "subfield_id": "d1cd3a4c-ae68-475b-800f-af24a0085698"
+            }
+        ],
+        "errors_not_solved": [
+            {
+                "error": "955 $b and $d should contain 8 characters",
+                "datafield_id": "944aeb79-a663-46a0-aee7-d26c24d87a0e",
+                "subfield_id": "d1cd3a4c-ae68-475b-800f-af24a0085698"
+            }
+        ],
+        "errors_solved": []
+    },
+    "I0001_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0001_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 245 $a should end with ' :' when followed by $b"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 245 $a should end with ' :' when followed by $b"
+        ]
+    },
+    "I0002_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0002_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 245 $b should end with ' /' when followed by $c"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 245 $b should end with ' /' when followed by $c"
+        ]
+    },
+    "I0003_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0003_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 245 $a should end with ' /' when directly followed by $c (without $b)"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 245 $a should end with ' /' when directly followed by $c (without $b)"
+        ]
+    },
+    "I0004_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0004_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 264 $a should end with ' :' when followed by $b"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 264 $a should end with ' :' when followed by $b"
+        ]
+    },
+    "I0005_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0005_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 264 $b should end with ',' when followed by $c"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 264 $b should end with ',' when followed by $c"
+        ]
+    },
+    "I0006_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0006_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 264 $c should end with a period or other punctuation"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 264 $c should end with a period or other punctuation"
+        ]
+    },
+    "I0007_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0007_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 264 $a should end with ',' when directly followed by $c (without $b)"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 264 $a should end with ',' when directly followed by $c (without $b)"
+        ]
+    },
+    "I0008_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0008_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 300 $a should end with ' :' when followed by $b"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 300 $a should end with ' :' when followed by $b"
+        ]
+    },
+    "I0009_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0009_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 300 $b should end with ' ;' when followed by $c"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 300 $b should end with ' ;' when followed by $c"
+        ]
+    },
+    "I0010_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0010_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 300 $a should end with ' ;' when directly followed by $c (without $b)"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 300 $a should end with ' ;' when directly followed by $c (without $b)"
+        ]
+    },
+    "I0011_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0011_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 655 'Academic Dissertation' present but 008/24 is not 'm'"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 655 'Academic Dissertation' present but 008/24 is not 'm'"
+        ]
+    },
+    "I0012_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0012_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 590 $a contains bracketed content which should be removed"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 590 $a contains bracketed content which should be removed"
+        ]
+    },
+    "I0013_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0013_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 650 field should not exist in IndexCat records"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 650 field should not exist in IndexCat records"
+        ]
+    },
+    "I0014_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0014_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 300 field contains 'cm.' which should be 'cm'"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 300 field contains 'cm.' which should be 'cm'"
+        ]
+    },
+    "I0015_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0015_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: 500 field contains brackets which should be removed"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: 500 field contains brackets which should be removed"
+        ]
+    },
+    "I0017_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_01.xml",
+        "errors_before_correction": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'a   ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'a   ' based on 300 field content, but found '    '"
+        ]
+    },
+    "I0017_02xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_02xml",
+        "errors_before_correction": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'b   ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'b   ' based on 300 field content, but found '    '"
+        ]
+    },
+    "I0017_03.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_03.xml",
+        "errors_before_correction": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'c   ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'c   ' based on 300 field content, but found '    '"
+        ]
+    },
+    "I0017_04.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_04.xml",
+        "errors_before_correction": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'af  ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'af  ' based on 300 field content, but found '    '"
+        ]
+    },
+    "I0017_05.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_05.xml",
+        "errors_before_correction": [
+            "300$b exists and 008/18-21 are all \u2018blank\u2019.",
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'abc ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "300$b exists and 008/18-21 are all \u2018blank\u2019.",
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'abc ' based on 300 field content, but found '    '"
+        ]
+    },
+    "S0066_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0066_01.xml",
+        "errors_before_correction": [
+            "Warning: record has $ sign in field 100, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 245, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 338, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 610, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 650, is it being used as MARC coding?"
+        ],
+        "errors_not_solved": [
+            "Warning: record has $ sign in field 100, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 245, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 338, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 610, is it being used as MARC coding?",
+            "Warning: record has $ sign in field 650, is it being used as MARC coding?"
+        ],
+        "errors_solved": []
+    },
+    "S0067_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0067_01.xml",
+        "errors_before_correction": [
+            "Warning: record has | sign in field 100, is it being used as MARC coding?",
+            "Warning: record has | sign in field 245, is it being used as MARC coding?",
+            "Warning: record has | sign in field 300, is it being used as MARC coding?"
+        ],
+        "errors_not_solved": [
+            "Warning: record has | sign in field 100, is it being used as MARC coding?",
+            "Warning: record has | sign in field 245, is it being used as MARC coding?",
+            "Warning: record has | sign in field 300, is it being used as MARC coding?"
+        ],
+        "errors_solved": []
+    },
+    "S0068_01.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/S0068_01.xml",
+        "errors_before_correction": [
+            {
+                "error": "Invalid character in 035 $9 field",
+                "datafield_id": "5c074d1c-08f1-4589-80e4-daed858253fd",
+                "subfield_id": "4125ef6f-afa9-4876-883c-a03afac99822"
+            },
+            "035 $9 has LTR character at the end."
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            {
+                "error": "Invalid character in 035 $9 field",
+                "datafield_id": "5c074d1c-08f1-4589-80e4-daed858253fd",
+                "subfield_id": "4125ef6f-afa9-4876-883c-a03afac99822"
+            },
+            "035 $9 has LTR character at the end."
+        ]
+    },
+    "I0017_02.xml": {
+        "input_filepath": "tests/regression tests/xml test inputs/I0017_02.xml",
+        "errors_before_correction": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'b   ' based on 300 field content, but found '    '"
+        ],
+        "errors_not_solved": [],
+        "errors_solved": [
+            "INDEXCAT: Illustration codes in 008/18-21 should be 'b   ' based on 300 field content, but found '    '"
+        ]
+    }
+}
