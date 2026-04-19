@@ -1,0 +1,228 @@
+<bib><suppress_from_publishing>false</suppress_from_publishing><suppress_from_external_search>false</suppress_from_external_search><record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">915119871</controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20250902201258.2</controlfield>
+    <controlfield tag="008">151013t20162016nyua     bfk  001 0deng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">  2015954566</subfield>
+    </datafield>
+    <datafield tag="015" ind1=" " ind2=" ">
+      <subfield code="a">GBB5F2782</subfield>
+      <subfield code="2">bnb</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">915492198</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781493932542</subfield>
+      <subfield code="q">(alk. paper)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1493932543</subfield>
+      <subfield code="q">(alk. paper)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="z">9781493932559</subfield>
+      <subfield code="q">(eBook)</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)915119871</subfield>
+      <subfield code="z">(OCoLC)915492198</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">rda</subfield>
+      <subfield code="c">NLM</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">NUI</subfield>
+      <subfield code="d">IAL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">YDX</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">UKMGB</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="041"><subfield code="a">eng</subfield></datafield><datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044"><subfield code="9">United States</subfield></datafield><datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">QP519.9.T84</subfield>
+      <subfield code="b">T86 2016</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">547.704572</subfield>
+      <subfield code="2">23</subfield>
+      <subfield code="1">https://id.oclc.org/worldcat/ddc/E3PwFrBk4MWK3CKpJfCpVkRDpQ</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">2-D page map analysis :</subfield>
+      <subfield code="b">methods and protocols /</subfield>
+      <subfield code="c">edited by Emilio Marengo and Elisa Robotti, Department of Sciences and Technological Innovation, Università del Piemonte Orientale, Alessandria, Italy.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Two-dimensional page map analysis</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Humana,</subfield>
+      <subfield code="c">[2016]</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="4">
+      <subfield code="c">©2016</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xvi, 331 pages :</subfield>
+      <subfield code="b">illustrations (some color) ;</subfield>
+      <subfield code="c">27 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Methods in molecular biology,</subfield>
+      <subfield code="x">1064-3745 ;</subfield>
+      <subfield code="v">1384</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Springer protocols</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references and index.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Sources of experimental variation in 2-D maps: the importance of experimental design in gel-based proteomics / Cristina-Maria Valcu and Mihai Valcu-Decoding 2-D maps by autocovariance function / Maria Chiara Pietrogrande, Nicola Marchetti, and Francesco Dondi-Two-dimensional gel electrophoresis image analysis via dedicated software packages / Martin H. Maurer-Comparative evaluation of software features and performances / Daniela Cecconi-Image pretreatment tools I: algorithms for map denoising and background subtraction methods / Carlo Vittorio Cannistraci and Massimo Alessio-Image pretreatment tools II: normalization techniques for 2-DE and 2-D DIGE / Elisa Robotti, Emilio Marengo, and Fabio Quasso-Spot matching of 2-DE images using distance, intensity, and pattern information / Hua-Mei Xin and Yuemin Zhu-Algorithms for warping of 2-D pages maps / Marcello Manfredi, Elisa Robotti, and Emilio Marengo-2-DE gel analysis: the spot detection / Simona Martinotti and Elia Ranzato-GENOCOP algorithm and hierarchical grid transformation for image warping of two-dimensional gel electrophoretic maps / Elisa Robotti, Emilio Marengo, and Marco Demartini-Detection and quantification of protein spots by pinnacle / Jeffrey S. Morris and Howard B. Gutstein-Novel gaussian extrapolation approach for 2-D gel electrophoresis saturated protein spots / Massimo Natale, Alfonso Caiazzo, and Elisa Ficarra-Multiple testing and pattern recognition in 2-DE proteomics / Sebastien C. Carpentier-Chemometric multivariate tools for candidate biomarker identification: LDA, PLS-DA, SIMCA, ranking-PCA / Elisa Robotti and Emilio Marengo-Use of legendre and zernike moment functions for the comparison of 2-D PAGE maps / Emilio Marengo, Elisa Robotti, and Marco Demartini-Nonlinear dimensionality reduction by minimum curvilinearity for unsupervised discovery of patterns in multidimensional proteomic data / Massimo Alessio and Carlo Vittorio Cannistraci-Differential analysis of 2-D maps by pixel-based approaches / Emilio Marengo, Elisa Robotti, and Fabio Quasso.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2="0">
+      <subfield code="t">Sources of experimental variation in 2-D maps : the importance of experimental design in gel-based proteomics /</subfield>
+      <subfield code="r">Cristina-Maria Valcu and Mihai Valcu --</subfield>
+      <subfield code="t">Decoding 2-D maps by autocovariance function /</subfield>
+      <subfield code="r">Maria Chiara Pietrogrande, Nicola Marchetti, and Francesco Dondi --</subfield>
+      <subfield code="t">Two-dimensional gel electrophoresis image analysis via dedicated software packages /</subfield>
+      <subfield code="r">Martin H. Maurer --</subfield>
+      <subfield code="t">Comparative evaluation of software features and performances /</subfield>
+      <subfield code="r">Daniela Cecconi --</subfield>
+      <subfield code="t">Image pretreatment tools I : algorithms for map denoising and background subtraction methods /</subfield>
+      <subfield code="r">Carlo Vittorio Cannistraci and Massimo Alessio --</subfield>
+      <subfield code="t">Image pretreatment tools II : normalization techniques for 2-DE and 2-D DIGE /</subfield>
+      <subfield code="r">Elisa Robotti, Emilio Marengo, and Fabio Quasso --</subfield>
+      <subfield code="t">Spot matching of 2-DE images using distance, intensity, and pattern information /</subfield>
+      <subfield code="r">Hua-Mei Xin and Yuemin Zhu --</subfield>
+      <subfield code="t">Algorithms for warping of 2-D PAGE maps /</subfield>
+      <subfield code="r">Marcello Manfredi, Elisa Robotti, and Emilio Marengo --</subfield>
+      <subfield code="t">2-DE gel analysis : the spot detection /</subfield>
+      <subfield code="r">Simona Martinotti and Elia Ranzato --</subfield>
+      <subfield code="t">GENOCOP algorithm and hierarchical grid transformation for image warping of two-dimensional gel electrophoretic maps /</subfield>
+      <subfield code="r">Elisa Robotti, Emilio Marengo, and Marco Demartini --</subfield>
+      <subfield code="t">Detection and quantification of protein spots by pinnacle /</subfield>
+      <subfield code="r">Jeffrey S. Morris and Howard B. Gutstein --</subfield>
+      <subfield code="t">Novel gaussian extrapolation approach for 2-D gel electrophoresis saturated protein spots /</subfield>
+      <subfield code="r">Massimo Natale, Alfonso Caiazzo, and Elisa Ficarra --</subfield>
+      <subfield code="t">Multiple testing and pattern recognition in 2-DE proteomics /</subfield>
+      <subfield code="r">Sebastien C. Carpentier --</subfield>
+      <subfield code="t">Chemometric multivariate tools for candidate biomarker identification : LDA, PLS-DA, SIMCA, ranking-PCA /</subfield>
+      <subfield code="r">Elisa Robotti and Emilio Marengo --</subfield>
+      <subfield code="t">Use of legendre and zernike moment functions for the comparison of 2-D PAGE maps /</subfield>
+      <subfield code="r">Emilio Marengo, Elisa Robotti, and Marco Demartini --</subfield>
+      <subfield code="t">Nonlinear dimensionality reduction by minimum curvilinearity for unsupervised discovery of patterns in multidimensional proteomic data /</subfield>
+      <subfield code="r">Massimo Alessio and Carlo Vittorio Cannistraci --</subfield>
+      <subfield code="t">Differential analysis of 2-D maps by pixel-based approaches /</subfield>
+      <subfield code="r">Emilio Marengo, Elisa Robotti, and Fabio Quasso.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Exploring the 2-D gel mapping field, the chapters in this book are separated into four different categories: Part I talks about 2-D maps reproducibility and maps modeling; Part II describes the image analysis tools that provide spot volume datasets; Part III is about the statistical methods applied to spot volume datasets to identify candidate biomarkers; and Part IV discusses differential analysis from direct image analysis tools. 2-D PAGE Map Analysis: Methods and Protocols provides a unique approach to 2-D gel mapping, in that it helps users avoid drawbacks due to ignorance of the basic theoretical mechanisms underlying the technique, including data handling and proper tools for spot analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Cutting-edge and thorough, 2-D PAGE Map Analysis: Methods and Protocols, is a useful resource for any scientist or researcher, with a mathematical background, who is interested in 2-D gel mapping.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Marengo, Emilio,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Robotti, Elisa,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Methods in molecular biology (Clifton, N.J.) ;</subfield>
+      <subfield code="v">v. 1384.</subfield>
+      <subfield code="x">1064-3745</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Springer protocols (Series)</subfield>
+      <subfield code="x">1949-2448</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="0">
+      <subfield code="a">Two-dimensional electrophoresis.</subfield>
+    </datafield>
+    <datafield tag="950" ind1="1" ind2="2">
+      <subfield code="a">Electrophoresis, Gel, Two-Dimensional</subfield>
+    </datafield>
+    <datafield tag="950" ind1="2" ind2="2">
+      <subfield code="a">Image Processing, Computer-Assisted</subfield>
+    </datafield>
+    <datafield tag="950" ind1="2" ind2="2">
+      <subfield code="a">Models, Statistical</subfield>
+    </datafield>
+    <datafield tag="950" ind1="2" ind2="2">
+      <subfield code="a">Principal Component Analysis</subfield>
+      <subfield code="x">methods</subfield>
+    </datafield>
+    <datafield tag="950" ind1="2" ind2="2">
+      <subfield code="a">Proteomics</subfield>
+      <subfield code="x">methods</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="6">
+      <subfield code="a">Électrophorèse bidimensionnelle.</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">Two-dimensional electrophoresis</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="2">
+      <subfield code="a">Handbook</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">manuals (instructional materials)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">handbooks.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2="7">
+      <subfield code="a">Guides et manuels.</subfield>
+      <subfield code="2">rvmgf</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="992"><subfield code="p">Px</subfield><subfield code="e">EF</subfield><subfield code="a">20260415</subfield></datafield><datafield ind1=" " ind2=" " tag="993"><subfield code="a">[CAT ONLY]</subfield><subfield code="b">20260415</subfield></datafield><datafield ind1=" " ind2=" " tag="994"><subfield code="a">[CAT ONLY]</subfield><subfield code="b">20260415</subfield></datafield><datafield ind1=" " ind2=" " tag="995"><subfield code="a">[CAT ONLY]</subfield><subfield code="b">20260415</subfield></datafield><datafield ind1=" " ind2=" " tag="996"><subfield code="a">[CAT ONLY]</subfield><subfield code="b">20260415</subfield></datafield><datafield ind1=" " ind2=" " tag="997"><subfield code="a">[CAT ONLY]</subfield></datafield><datafield ind1=" " ind2=" " tag="999"><subfield code="a">ZZZ</subfield></datafield></record></bib>
