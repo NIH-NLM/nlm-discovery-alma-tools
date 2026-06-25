@@ -1,0 +1,10 @@
+MMS ID,New Frequency,Effective Year,Continuous Publication,Note Override,Source URL
+9912345678901234,Annual,2024,,,
+9923456789012345,Quarterly,2024,,,
+9934567890123456,Monthly,2023,,,
+9945678901234567,Semiannual,2024,yes,,
+9956789012345678,Weekly,2024,,,
+9967890123456789,Bimonthly,2023,,,
+9978901234567890,Irregular,2024,,,
+9989012345678901,Three times a year,2024,,,
+9990123456789012,Biweekly,2023,yes,"Articles published online ahead of print and compiled into issues.",https://example.org/journal
