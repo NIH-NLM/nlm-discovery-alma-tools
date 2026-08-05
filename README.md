@@ -4,7 +4,7 @@ A collection of practical Python tools for Ex Libris Alma workflows.
 
 This repository is designed for librarians, catalogers, metadata staff, and systems staff who want clear, documented scripts for validation, automation, lookup, set processing, and controlled testing.
 
-## Repository Areas
+## Repository Areas - info
 
 - [Getting Started](Getting%20Started/) - Starter scripts and safe local testing workflows for Alma API work
 - [Alma Validation](Alma%20Validation/) - Validation and correction tools for bibliographic records
