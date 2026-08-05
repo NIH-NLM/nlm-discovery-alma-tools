@@ -12,6 +12,8 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 - [Alma Automation](Alma%20Automation/) - Workflow automation scripts for cataloging and metadata operations
 - [Alma Set Tools](Alma%20Set%20Tools/) - Set creation and batch set splitting workflows
 - [Alma Testing](Alma%20Testing/) - Controlled record movement tools between Production and Sandbox
+- [OCLC to Alma](OCLC%20to%20Alma/) - Workflows for bringing metadata from OCLC WorldCat into Alma
+- [Serials Maintenance](Serials%20Maintenance/) - Automation scripts for ongoing serials maintenance workflows
 
 ## Tool Index
 
@@ -38,6 +40,13 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 - [Move Authority Prod to Sandbox](Alma%20Testing/Move_Authority_Prod_to_Sandbox/) - Copies an authority record from Production to Sandbox
 - [Move Authority Sandbox to Prod](Alma%20Testing/Move_Authority_Sandbox_to_Prod/) - Copies an authority record from Sandbox to Production
 - [Move Bib Prod to Sandbox](Alma%20Testing/Move_Bib_Prod_to_Sandbox/) - Copies a bib record and related inventory from Production to Sandbox
+
+### OCLC to Alma
+- [OCLC to Alma - Book](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/) - Streamlines importing book records from OCLC WorldCat directly into Alma
+- [OCLC to Alma - Journal](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Journal/) - Searches OCLC WorldCat by ISSN, evaluates records, and imports the best-matching journal record into Alma
+
+### Serials Maintenance
+- [Frequency Change Automation](Serials%20Maintenance/Frequency%20Change%20Automation/) - Automates MARC 21 bib record updates for serial frequency changes (310, 321, 008, 515 fields)
 
 ## Configuration and Security
 
