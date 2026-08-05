@@ -1,4 +1,4 @@
-# Alma Loopup Tools
+# Alma Lookup Tools
 
 Tools for lookup and discovery tasks in Alma.
 
