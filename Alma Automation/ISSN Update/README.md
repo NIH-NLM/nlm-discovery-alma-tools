@@ -47,7 +47,7 @@ pip install requests
 
 ### 1. API Key
 
-The script stores the API key in a variable near the top of `NLM_UI_UpdateISSN.py`:
+The script stores the API key in a variable near the top of `ISSN_Update_github.py`:
 
 ```python
 API_KEY = "your_api_key_here"
@@ -103,7 +103,7 @@ NLM UI,Title,Print ISSN,Electronic ISSN,Linking ISSN
 ## Running the Script
 
 ```bash
-python NLM_UI_UpdateISSN.py
+python ISSN_Update_github.py
 ```
 
 The script prints progress to the console for each row:

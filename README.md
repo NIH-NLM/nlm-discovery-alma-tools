@@ -12,6 +12,8 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 - [Alma Automation](Alma%20Automation/) - Workflow automation scripts for cataloging and metadata operations
 - [Alma Set Tools](Alma%20Set%20Tools/) - Set creation and batch set splitting workflows
 - [Alma Testing](Alma%20Testing/) - Controlled record movement tools between Production and Sandbox
+- [OCLC to Alma](OCLC%20to%20Alma/) - Workflows for bringing metadata from OCLC WorldCat into Alma
+- [Serials Maintenance](Serials%20Maintenance/) - Serials-specific maintenance workflows
 
 ## Tool Index
 
@@ -39,13 +41,21 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 - [Move Authority Sandbox to Prod](Alma%20Testing/Move_Authority_Sandbox_to_Prod/) - Copies an authority record from Sandbox to Production
 - [Move Bib Prod to Sandbox](Alma%20Testing/Move_Bib_Prod_to_Sandbox/) - Copies a bib record and related inventory from Production to Sandbox
 
+### OCLC to Alma
+- [OCLC to Alma - Book](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/) - Book-focused ingestion workflow for OCLC metadata
+- [OCLC to Alma - Journal](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Journal/) - Journal-focused ingestion workflow for OCLC metadata
+
+### Serials Maintenance
+- [Frequency Change Automation](Serials%20Maintenance/Frequency%20Change%20Automation/) - Updates serial publication frequency fields in MARC records using spreadsheet input
+
 ## Configuration and Security
 
 - Keep API keys out of source control.
-- Use a local key file that follows the included example format in [alma_api_keys_github.txt](alma_api_keys_github.txt).
-- Recommended key names used by public-share scripts:
-  - alma_sandbox_key
-  - alma_production_key
+- Use a local key file that follows the included example format in alma_api_keys_github.txt (when provided in the tool folder).
+- You can also use environment variables for local key handling.
+- Common key file names used by scripts:
+  - alma_sandbox_key.txt
+  - alma_production_key.txt
 - Add real key files to .gitignore.
 
 ## Recommended Usage Order
@@ -53,7 +63,7 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 1. Start with [Getting Started/Basic Connection](Getting%20Started/Basic%20Connection/).
 2. Continue with [Getting Started/Local_Testing](Getting%20Started/Local_Testing/).
 3. Run testing and movement workflows in Sandbox-first patterns before production-impact workflows.
-4. For any folder, review its local README before running the script.
+4. For tool-specific workflows, review each folder's local README before running scripts.
 
 ## Notes
 

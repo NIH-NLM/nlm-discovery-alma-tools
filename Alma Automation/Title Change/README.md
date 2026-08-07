@@ -69,7 +69,7 @@ The script reads your Alma API key from a **separate text file** so the key is n
 alma_sandbox_key = "your_key_here"
 ```
 
-Then update this line near the top of `titlechange_consolidated.py`:
+Then update this line near the top of `titlechange_github.py`:
 
 ```python
 with open(r"your_file_path_here.txt") as f:
@@ -142,7 +142,7 @@ The subfield codes in 76X-78X linking fields that hold coverage / "archive begin
 ## Running the Script
 
 ```bash
-python titlechange_consolidated.py
+python titlechange_github.py
 ```
 
 The script will print progress to the console:
