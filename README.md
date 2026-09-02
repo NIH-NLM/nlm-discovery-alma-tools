@@ -43,6 +43,7 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 
 ### OCLC to Alma
 - [OCLC to Alma - Book](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/) - Book-focused ingestion workflow for OCLC metadata
+- [OCLC to Alma - Book batch](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book%20batch/) - Standalone batch eBook ingestion workflow with spreadsheet input and electronic portfolio creation
 - [OCLC to Alma - Journal](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Journal/) - Journal-focused ingestion workflow for OCLC metadata
 
 ### Serials Maintenance
