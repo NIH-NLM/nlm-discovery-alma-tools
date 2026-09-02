@@ -29,9 +29,11 @@ except ImportError:
 
 # ---------------------------------------------------------------------------
 # Load Alma sandbox API key so it isn't hardcoded in script
+# Replace "your_file_path_here.txt" with the full path to your API key file.
+# Example: r"C:/Users/YourName/Desktop/alma_api_keys.txt"
 # ---------------------------------------------------------------------------
 alma_api_key = None
-with open(r"C:/Users/stockdalear/Desktop/alma_api_keys.txt") as f:
+with open(r"your_file_path_here.txt") as f:
     for line in f:
         if line.strip().startswith("alma_sandbox_key"):
             alma_api_key = line.split("=", 1)[1].strip().strip('"')

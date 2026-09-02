@@ -32,9 +32,12 @@ def main():
         return
 
     # Load Alma API key early so we can check Alma
+    # Replace "your_file_path_here.txt" with the full path to your API key file.
+    # Example: r"C:/Users/YourName/Desktop/alma_api_keys.txt"
     alma_api_key = None
+    alma_api_key_file = r"your_file_path_here.txt"
     try:
-        with open(r"C:/Users/stockdalear/Desktop/alma_api_keys.txt") as f:
+        with open(alma_api_key_file) as f:
             for line in f:
                 if line.strip().startswith("alma_sandbox_key"):
                     parts = line.split("=", 1)
@@ -45,7 +48,7 @@ def main():
         print(f"Could not read alma API key: {e}")
 
     if not alma_api_key:
-        print("Error: Alma sandbox API key not found in C:/Users/stockdalear/Desktop/alma_api_keys.txt")
+        print(f"Error: Alma sandbox API key not found in {alma_api_key_file}")
         return
 
     # For API, ExLibris uses the standard endpoint; the sandbox/prod routing is handled by the API key
