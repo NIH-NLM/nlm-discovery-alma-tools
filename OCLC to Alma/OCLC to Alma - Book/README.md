@@ -40,8 +40,8 @@ Sometimes there are many records for the same ISBN. To pick the best one, the pr
 
 If you are setting this up for a new library or a new librarian's workstation, you will need to modify two things: **Authentication Keys** and the **Alma URL settings**. 
 
-### 1. Set Up Your API Keys (No Code Changes Needed!)
-For security, the script looks for text files on the user's **Desktop**. This ensures you never accidentally share passwords if you share the code.
+### 1. Set Up Your API Keys
+For security, the script looks for text files on the user's **Desktop** rather than storing keys in the code. This ensures you never accidentally share passwords if you share the code.
 
 1. **Create an Alma Key File:**
    - Create a text file directly on your desktop named: `alma_api_keys.txt`
@@ -49,6 +49,7 @@ For security, the script looks for text files on the user's **Desktop**. This en
      ```text
      alma_sandbox_key="l7xx1234567890abcdefg"
      ```
+   - Open `book_workflow.py`, find the line `alma_api_key_file = r"your_file_path_here.txt"`, and replace `your_file_path_here.txt` with the full path to this file (e.g. `C:/Users/YourName/Desktop/alma_api_keys.txt`).
 2. **Create an OCLC Key File:**
    - Create another text file on your desktop named: `oclc_api_keys.txt`
    - Paste in your OCLC Web Service Key and Secret:
@@ -56,6 +57,7 @@ For security, the script looks for text files on the user's **Desktop**. This en
      oclc_wskey="your_oclc_wskey_here"
      oclc_secret="your_oclc_secret_here"
      ```
+   - Open `src/shared/oclc_token_manager.py`, find the line `with open(r"your_file_path_here.txt") as f:`, and replace `your_file_path_here.txt` with the full path to this file.
 
 *(The program automatically reads these files every time it runs.)*
 

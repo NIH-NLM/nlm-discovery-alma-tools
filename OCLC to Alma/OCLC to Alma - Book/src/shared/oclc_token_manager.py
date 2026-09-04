@@ -22,8 +22,10 @@ class OCLCTokenManager:
         self._max_retries = 3
         self._backoff_base = 1.0
 
+        # Replace "your_file_path_here.txt" with the full path to your API key file.
+        # Example: r"C:/Users/YourName/Desktop/oclc_api_keys.txt"
         try:
-            with open(r"C:/Users/stockdalear/Desktop/oclc_api_keys.txt") as f:
+            with open(r"your_file_path_here.txt") as f:
                 for line in f:
                     line = line.strip()
                     if line.startswith("oclc_wskey"):

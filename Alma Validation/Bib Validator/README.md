@@ -126,13 +126,11 @@ To disable a check, find it in `bib_validator.py` and either delete the block or
 
 ## Customizing the API key location
 
-By default the tool reads your API key from:
+The tool reads your API key from a placeholder path in `bib_validator_cli.py`. Open the file, find the line `with open(r"your_file_path_here.txt") as f:`, and replace `your_file_path_here.txt` with the full path to your key file, for example:
 
 ```
 C:/Users/<your-username>/Desktop/alma_api_keys.txt
 ```
-
-If your file is in a different location, open `bib_validator_cli.py` and change the path on the line that starts with `with open(...)`.
 
 ---
 

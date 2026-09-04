@@ -1,0 +1,9 @@
+.env
+*.xlsx
+!input.example.xlsx
+__pycache__/
+*.pyc
+
+# Real credential files — never commit these (use .env.example as the template instead)
+oclc_api_keys.txt
+alma_api_keys.txt
