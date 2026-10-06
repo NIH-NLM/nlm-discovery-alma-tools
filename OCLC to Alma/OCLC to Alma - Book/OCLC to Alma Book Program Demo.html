@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OCLC to Alma Book Program Demo</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f3f6fa; color: #172b40; font-family: system-ui, sans-serif; line-height: 1.6; }
+    main { max-width: 1100px; margin: 0 auto; padding: 40px 20px; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.6rem, 4vw, 2.3rem); }
+    p { margin: 0 0 24px; }
+    video { display: block; width: 100%; max-height: 75vh; background: #000; border-radius: 10px; }
+    .help { margin-top: 20px; color: #43566a; }
+    a { color: #145da0; }
+    a:focus-visible { outline: 3px solid #145da0; outline-offset: 4px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>OCLC to Alma Book Program Demo</h1>
+    <p>Instructional video · Program demonstration</p>
+    <video controls playsinline preload="metadata" aria-label="OCLC to Alma Book instructional video">
+      <source src="OCLC%20to%20Alma%20Book%20Program%20Demo%202.mp4" type="video/mp4">
+      Your browser does not support embedded video. Use the link below to open the MP4.
+    </video>
+    <p class="help">Select Play to begin. Use the player controls to pause, adjust volume, or enter full screen.</p>
+    <p><a href="OCLC%20to%20Alma%20Book%20Program%20Demo%202.mp4">Open the MP4 directly</a></p>
+    <p id="playback-error" role="alert" hidden>The video could not be loaded. Keep this HTML page and the MP4 in the same folder, or try opening the MP4 directly.</p>
+  </main>
+  <script>
+    const player = document.querySelector('video');
+    const showError = () => { document.getElementById('playback-error').hidden = false; };
+    player.addEventListener('error', showError);
+    player.querySelector('source').addEventListener('error', showError);
+  </script>
+</body>
+</html>

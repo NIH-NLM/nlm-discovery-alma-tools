@@ -2,6 +2,14 @@
 
 Welcome! This tool streamlines the process of importing book records from OCLC directly into your Alma institution. It is designed to be librarian-friendly and reduces manual data entry so you can catalog items much faster.
 
+## Instructional Video
+
+[OCLC to Alma Book Program Demo](OCLC%20to%20Alma%20Book%20Program%20Demo.html) provides a browser video player for the book workflow demonstration.
+
+To watch locally, open `OCLC to Alma Book Program Demo.html` in your browser and select Play. The player includes pause, volume, and full-screen controls. Keep the HTML page and [OCLC to Alma Book Program Demo 2.mp4](OCLC%20to%20Alma%20Book%20Program%20Demo%202.mp4) together in this folder.
+
+You can download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
+
 ---
 
 ## 🚀 What Does This Program Do?
