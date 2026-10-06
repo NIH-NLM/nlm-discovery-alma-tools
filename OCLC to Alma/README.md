@@ -10,9 +10,9 @@ Workflows for bringing metadata from OCLC WorldCat into Alma.
 
 ## Instructional Video
 
-[OCLC to Alma Book Program Demo](OCLC%20to%20Alma%20-%20Book/OCLC%20to%20Alma%20Book%20Program%20Demo.html) demonstrates the single-record book workflow. See the [Book README](OCLC%20to%20Alma%20-%20Book/README.md#instructional-video) for playback and download instructions.
+[OCLC to Alma Book Program Demo](https://nih-nlm.github.io/nlm-discovery-alma-tools/OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/OCLC%20to%20Alma%20Book%20Program%20Demo.html) demonstrates the single-record book workflow. See the [Book README](OCLC%20to%20Alma%20-%20Book/README.md#instructional-video) for playback and download instructions.
 
-You can download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
+Watch directly in your browser without downloading files first. For optional offline viewing, download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
 
 ## Notes
 

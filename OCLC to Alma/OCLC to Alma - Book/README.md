@@ -4,11 +4,13 @@ Welcome! This tool streamlines the process of importing book records from OCLC d
 
 ## Instructional Video
 
-[OCLC to Alma Book Program Demo](OCLC%20to%20Alma%20Book%20Program%20Demo.html) provides a browser video player for the book workflow demonstration.
+[Watch the OCLC to Alma Book demo](https://nih-nlm.github.io/nlm-discovery-alma-tools/OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/OCLC%20to%20Alma%20Book%20Program%20Demo.html) to see the single-record book workflow. Watch directly in your browser without downloading files first. Select Play to begin; the player includes pause, volume, and full-screen controls.
 
-To watch locally, open `OCLC to Alma Book Program Demo.html` in your browser and select Play. The player includes pause, volume, and full-screen controls. Keep the HTML page and [OCLC to Alma Book Program Demo 2.mp4](OCLC%20to%20Alma%20Book%20Program%20Demo%202.mp4) together in this folder.
+### Optional offline viewing
 
-You can download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
+Download both the [HTML player](OCLC%20to%20Alma%20Book%20Program%20Demo.html) and [MP4 video](OCLC%20to%20Alma%20Book%20Program%20Demo%202.mp4), and keep them in the same folder. Open `OCLC to Alma Book Program Demo.html` in a modern browser such as Chrome, Edge, Firefox, or Safari, then select Play.
+
+The HTML player link above opens the source file on GitHub so you can download it. To watch online, use **Watch the OCLC to Alma Book demo** above.
 
 ---
 
