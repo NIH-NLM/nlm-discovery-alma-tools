@@ -46,9 +46,9 @@ This repository is designed for librarians, catalogers, metadata staff, and syst
 - [OCLC to Alma - Book batch](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book%20batch/) - Standalone batch eBook ingestion workflow with spreadsheet input and electronic portfolio creation
 - [OCLC to Alma - Journal](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Journal/) - Journal-focused ingestion workflow for OCLC metadata
 
-Watch the [OCLC to Alma Book Program Demo](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/OCLC%20to%20Alma%20Book%20Program%20Demo.html) for the single-record book workflow. See the [playback and download instructions](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/README.md#instructional-video).
+Watch the [OCLC to Alma Book Program Demo](https://nih-nlm.github.io/nlm-discovery-alma-tools/OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/OCLC%20to%20Alma%20Book%20Program%20Demo.html) for the single-record book workflow. See the [playback and download instructions](OCLC%20to%20Alma/OCLC%20to%20Alma%20-%20Book/README.md#instructional-video).
 
-You can download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
+Watch directly in your browser without downloading files first. For optional offline viewing, download **both the HTML and MP4 files**, keep them in the same folder, and open the HTML file in a modern browser such as Chrome, Edge, Firefox, or Safari.
 
 ### Serials Maintenance
 - [Frequency Change Automation](Serials%20Maintenance/Frequency%20Change%20Automation/) - Updates serial publication frequency fields in MARC records using spreadsheet input
