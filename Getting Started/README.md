@@ -2,10 +2,6 @@
 
 Tools and starter examples for safely learning and testing Alma API workflows.
 
-## Instructional Video
-
-See the [Basic Connection instructional video and viewing instructions](Basic%20Connection/README.md#instructional-video) to learn how to verify Alma API access and connectivity.
-
 ## Tools
 
 - [Basic Connection](Basic%20Connection/) - Confirm your Alma API key, region, and connectivity using a single MMS ID lookup
