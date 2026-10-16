@@ -2,6 +2,16 @@
 
 A simple Python script that verifies your library can connect to its [Ex Libris Alma](https://exlibrisgroup.com/products/alma-library-services-platform/) instance through the Alma API. You provide a MMS ID (the unique identifier for a bibliographic record in Alma), and the script retrieves and displays the title (MARC field 245 $a) from that record.
 
+## Instructional Video
+
+[Watch the Basic Connection Getting Started video](https://nih-nlm.github.io/nlm-discovery-alma-tools/Getting%20Started/Basic%20Connection/Basic_Connection_Getting_Started.html) to learn how to verify Alma API access and connectivity. Watch directly in your browser without downloading files first. Select Play to begin; the player includes pause, volume, and full-screen controls.
+
+### Optional offline viewing
+
+Download both the [HTML player](Basic_Connection_Getting_Started.html) and [MP4 video](Basic_Connection_Getting_Started.mp4), and keep them in the same folder. Open `Basic_Connection_Getting_Started.html` in a modern browser such as Chrome, Edge, Firefox, or Safari, then select Play.
+
+The HTML player link above opens the source file on GitHub so you can download it. To watch online, use **Watch the Basic Connection Getting Started video** above.
+
 ## Prerequisites
 
 | Requirement | Details |

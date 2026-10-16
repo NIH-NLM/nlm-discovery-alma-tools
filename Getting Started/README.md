@@ -4,13 +4,7 @@ Tools and starter examples for safely learning and testing Alma API workflows.
 
 ## Instructional Video
 
-[Watch the Getting Started video](https://nih-nlm.github.io/nlm-discovery-alma-tools/Getting%20Started/Getting_Started.html) to learn how to get started. Watch directly in your browser without downloading files first. Select Play to begin; the player includes pause, volume, and full-screen controls.
-
-### Optional offline viewing
-
-Download both the [HTML player](Getting_Started.html) and [MP4 video](Getting_Started.mp4), and keep them in the same folder. Open `Getting_Started.html` in a modern browser such as Chrome, Edge, Firefox, or Safari, then select Play.
-
-The HTML player link above opens the source file on GitHub so you can download it. To watch online, use **Watch the Getting Started video** above.
+See the [Basic Connection instructional video and viewing instructions](Basic%20Connection/README.md#instructional-video) to learn how to verify Alma API access and connectivity.
 
 ## Tools
 
